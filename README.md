@@ -21,7 +21,7 @@
 * [其他](#其他)
   * [左耳听风书籍汇总](#左耳听风书籍汇总)
 
-## 编程语言 ##
+## 编程语言
 
 ### Java
 
@@ -349,7 +349,7 @@
   * [百度云下载](http://pan.baidu.com/s/1eQ7xfJc)
   * [MEGA下载](https://mega.co.nz/#!HZlmjJ4J!AojNWWw0PDqRA9ICcfSKnaSV49uWTDwYMsQcmj1Hs0I)
 
-## 数据挖掘 ##
+## 数据挖掘
 
 * 数据挖掘：概念与技术 中文版 3e （扫描版 13.3M）
   * [微盘下载](http://vdisk.weibo.com/s/aADaW4YROrLlY)
@@ -457,7 +457,7 @@
   * [百度云下载](http://pan.baidu.com/s/1o6FVgiY)
   * [MEGA下载](https://mega.co.nz/#!bJkQ3LKC!si0bg0UISrBZg6pULYhWpfovRGlXVCytzaqC5RYPdEo)
 
-## 其它 ##
+## 其它
 
 ### 左耳听风书籍汇总
 
