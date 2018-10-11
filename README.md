@@ -1,9 +1,10 @@
 # 计算机电子书pdf整理及下载链接
 
-原文在[这里](http://www.flygon.net/it-ebooks)。
+原文链接：[http://www.flygon.net/it-ebooks](http://www.flygon.net/it-ebooks)。
+
+**本文中所有资源均来源于互联网，本人仅搜集整理。仅供个人目的使用，分享时应遵守CC协议。**
 
 **更新于20181011**
-
 ## 目录
 * [编程语言](#编程语言)
   * [Java](#java)
