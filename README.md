@@ -9,8 +9,8 @@
 [TOC levels=1-3]: # "## 目录"
 ## 目录
 * [编程语言](#编程语言)
-  * [Java](#Java)
-  * [Python](#Python)
+  * [Java](##Java)
+  * [Python](##Python)
 * [操作系统](#操作系统)
 * [网络](#网络)
 * [数据库](#数据库)
