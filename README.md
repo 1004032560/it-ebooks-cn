@@ -9,6 +9,8 @@
 [TOC levels=1-3]: # "## 目录"
 ## 目录
 * [编程语言](#编程语言)
+  * [Java](#Java)
+  * [Python](#Python)
 * [操作系统](#操作系统)
 * [网络](#网络)
 * [数据库](#数据库)
@@ -457,7 +459,7 @@
   * [百度云下载](http://pan.baidu.com/s/1o6FVgiY)
   * [MEGA下载](https://mega.co.nz/#!bJkQ3LKC!si0bg0UISrBZg6pULYhWpfovRGlXVCytzaqC5RYPdEo)
 
-## 其它
+## 其他
 
 ### 左耳听风书籍汇总
 
