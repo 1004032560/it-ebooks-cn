@@ -1,4 +1,4 @@
-# 计算机电子书pdf整理及下载链接
+# 计算机电子书pdf整理及链接
 
 原文链接：[http://www.flygon.net/it-ebooks](http://www.flygon.net/it-ebooks)。
 
