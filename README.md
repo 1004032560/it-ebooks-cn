@@ -19,6 +19,7 @@
 * [IT人文](#it人文)
 * [网络安全](#网络安全)
 * [其他](#其他)
+  * [汇总](#汇总)
   * [左耳听风书籍汇总](#左耳听风书籍汇总)
 
 ## 编程语言
@@ -459,9 +460,136 @@
 
 ## 其他
 
-### 左耳听风书籍汇总
+### 汇总
 
 * 程序员健康指南 （文字版）
   * [微盘下载](http://vdisk.weibo.com/s/aADaW4YROyYOU)
   * [百度云下载](http://pan.baidu.com/s/1ntuX5RN)
   * [MEGA下载](https://mega.co.nz/#!GBsFxIZS!dB5f_tRXWadjGb2kbZHRwuMnpTVo2QRk36Cr9kW1wcw)
+
+### 左耳听风书籍汇总
+
+* [十年学会编程](http://norvig.com/21-days.html)
+* [数据库设计那些事](https://www.imooc.com/learn/117)
+* [程序员的荒谬之言还是至理名言](https://coolshell.cn/articles/4235.html)
+* [Google Guava](https://github.com/google/guava)
+* [List of Algorithms](https://www.wikiwand.com/en/List_of_algorithms)
+* [Data Structrue Visuallizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
+* [C10K Problem](http://www.kegel.com/c10k.html)
+* [C10K问题（中文版）](https://www.oschina.net/translate/c10k)
+* [Clean Architecture](https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html)
+* [Avoid Over Engineering](https://medium.com/@rdsubhas/10-modern-software-engineering-mistakes-bc67fbef4fc8)
+* [Instagram's 3 Rules](https://medium.com/@DataStax/instagram-engineerings-3-rules-to-a-scalable-cloud-application-architecture-c44afed31406)
+* [How To Design A Good API](https://www.infoq.com/presentations/effective-api-design)
+* [The Problem With Logging](https://blog.codinghorror.com/the-problem-with-logging/)
+* [Concurrent Programming for Scalable Web Architectures](http://berb.github.io/diploma-thesis/community/index.html)
+* Code Review
+  * [Code Review Best Pratices](https://medium.com/@palantir/code-review-best-practices-19e02780015f)
+  * [How Google Does Code Review](https://dzone.com/articles/how-google-does-code-review)
+  * [LinkedIn's Tips for Highly Effective Code Review](https://thenewstack.io/linkedin-code-review/)
+* Unit Test
+  * [JUnit User Guide](https://junit.org/junit5/docs/current/user-guide/)
+  * [You Still Don't Know How to Do Unit Testing](https://stackify.com/unit-testing-basics-best-practices/)
+  * [Unit Testing Best Practices](https://dzone.com/articles/unit-testing-best-practices)
+  * [JUnit Best Practices](http://www.kyleblaney.com/junit-best-practices/)
+* TCP/IP
+  * [Let's code a TCP/IP Stack 1](http://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/)
+  * [Let's code a TCP/IP Stack 2](http://www.saminiir.com/lets-code-tcp-ip-stack-2-ipv4-icmpv4/)
+  * [Let's code a TCP/IP Stack 3](http://www.saminiir.com/lets-code-tcp-ip-stack-3-tcp-handshake/)
+  * [Let's code a TCP/IP Stack 4](http://www.saminiir.com/lets-code-tcp-ip-stack-4-tcp-data-flow-socket-api/)
+  * [Let's code a TCP/IP Stack 5](http://www.saminiir.com/lets-code-tcp-ip-stack-5-tcp-retransmission/)
+* Java核心技术（卷1）
+  * [豆瓣](https://book.douban.com/subject/26880667/)
+* Head First Java
+  * [豆瓣](https://book.douban.com/subject/2000732/)
+* Spring实战
+  * [豆瓣](https://book.douban.com/subject/26767354/)
+* Spring Boot实战
+  * [豆瓣](https://book.douban.com/subject/26857423/)
+* 鸟哥的Linux私房菜
+  * [豆瓣](https://book.douban.com/subject/4889838/)
+* MySQL必知必会
+  * [豆瓣](https://book.douban.com/subject/3354490/)
+* Effective Java
+  * [豆瓣](https://book.douban.com/subject/27047716/)
+* 代码大全
+  * [豆瓣](https://book.douban.com/subject/1477390/)
+* 重构：改善既有代码设计
+  * [豆瓣](https://book.douban.com/subject/4262627/)
+* 修改代码的艺术
+  * [豆瓣](https://book.douban.com/subject/2248759/)
+* 代码整洁之道
+  * [豆瓣](https://book.douban.com/subject/4199741/)
+* 程序员的职业素养
+  * [豆瓣](https://book.douban.com/subject/11614538/)
+* 完美软件：对软件测试的各种幻想
+  * [豆瓣](https://book.douban.com/subject/4187479/)
+* Google软件测试之道
+  * [豆瓣](https://book.douban.com/subject/25742200/)
+* Java并发编程实战
+  * [豆瓣](https://book.douban.com/subject/10484692/)
+* Java性能权威指南
+  * [豆瓣](https://book.douban.com/subject/26740520/)
+* 深入理解Java虚拟机
+  * [豆瓣](https://book.douban.com/subject/24722612/)
+* Java编程思想
+  * [豆瓣](https://book.douban.com/subject/2130190/)
+* 精通Spring4.x
+  * [豆瓣](https://book.douban.com/subject/26952826/)
+* Head First设计模式
+  * [豆瓣](https://book.douban.com/subject/2243615/)
+* 算法
+  * [豆瓣](https://book.douban.com/subject/10432347/)
+* 算法图解
+  * [豆瓣](https://book.douban.com/subject/26979890/)
+* 算法导论
+  * [豆瓣](https://book.douban.com/subject/20432061/)
+* 编程珠玑
+  * [豆瓣](https://book.douban.com/subject/3227098/)
+* 数据结构与算法分析
+  * [豆瓣](https://book.douban.com/subject/1139426/)
+* 数据库系统概念
+  * [豆瓣](https://book.douban.com/subject/1929984/)
+* 现代操作系统
+  * [豆瓣](https://book.douban.com/subject/3852290/)
+* 计算机网络
+  * [豆瓣](https://book.douban.com/subject/1391207/)
+* 计算机程序的构造和解释
+  * [豆瓣](https://book.douban.com/subject/1148282/)
+* 编译原理
+  * [豆瓣](https://book.douban.com/subject/3296317/)
+* 深入理解计算机系统
+  * [豆瓣](https://book.douban.com/subject/5333562/)
+* Unix高级环境编程
+  * [豆瓣](https://book.douban.com/subject/1788421/)
+* Unix网络编程
+  * [豆瓣卷1](https://book.douban.com/subject/1500149/)
+  * [豆瓣卷2](https://book.douban.com/subject/4118577/)
+* TCP/IP详解 卷I协议
+  * [豆瓣](https://book.douban.com/subject/1088054/)
+* Linux C编程一站式学习
+  * [豆瓣](https://book.douban.com/subject/4141733/)
+* TCP/IP网络编程
+  * [豆瓣](https://book.douban.com/subject/25911735/)
+* 图解TCP/IP
+  * [豆瓣](https://book.douban.com/subject/24737674/)
+* The TCP/IP Guide
+  * [豆瓣](http://www.tcpipguide.com/free/index.htm)
+* Wireshark数据包分析实战
+  * [豆瓣](https://book.douban.com/subject/21691692/)
+* Linux/Unix系统编程手册
+  * [豆瓣](https://book.douban.com/subject/25809330/)
+* Linux系统编程
+  * [豆瓣](https://book.douban.com/subject/25828773/)
+* 领域驱动设计
+  * [豆瓣](https://book.douban.com/subject/26819666/)
+* UNIX编程艺术
+  * [豆瓣](https://book.douban.com/subject/1467587/)
+* Clean Architecture
+  * [豆瓣](https://book.douban.com/subject/26915970/)
+* Clean Code
+  * [豆瓣](https://book.douban.com/subject/5442024/)
+* The Clean Coder
+  * [豆瓣](https://book.douban.com/subject/11614538/)
+* The Twelve-Factor App
+  * [豆瓣](https://12factor.net/zh_cn/)
