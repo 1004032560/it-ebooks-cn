@@ -5,7 +5,6 @@
 **本文中所有资源均来源于互联网，本人仅搜集整理。仅供个人目的使用，分享时应遵守CC协议。**
 
 **更新于20181016**
-> 补充左耳听风专栏书籍
 
 ## 目录
 * [编程语言](#编程语言)
@@ -485,6 +484,7 @@
 * [How To Design A Good API](https://www.infoq.com/presentations/effective-api-design)
 * [The Problem With Logging](https://blog.codinghorror.com/the-problem-with-logging/)
 * [Concurrent Programming for Scalable Web Architectures](http://berb.github.io/diploma-thesis/community/index.html)
+
 * Code Review
   * [Code Review Best Pratices](https://medium.com/@palantir/code-review-best-practices-19e02780015f)
   * [How Google Does Code Review](https://dzone.com/articles/how-google-does-code-review)
@@ -494,12 +494,84 @@
   * [You Still Don't Know How to Do Unit Testing](https://stackify.com/unit-testing-basics-best-practices/)
   * [Unit Testing Best Practices](https://dzone.com/articles/unit-testing-best-practices)
   * [JUnit Best Practices](http://www.kyleblaney.com/junit-best-practices/)
-* TCP/IP
+* 计算机网络
   * [Let's code a TCP/IP Stack 1](http://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/)
   * [Let's code a TCP/IP Stack 2](http://www.saminiir.com/lets-code-tcp-ip-stack-2-ipv4-icmpv4/)
   * [Let's code a TCP/IP Stack 3](http://www.saminiir.com/lets-code-tcp-ip-stack-3-tcp-handshake/)
   * [Let's code a TCP/IP Stack 4](http://www.saminiir.com/lets-code-tcp-ip-stack-4-tcp-data-flow-socket-api/)
   * [Let's code a TCP/IP Stack 5](http://www.saminiir.com/lets-code-tcp-ip-stack-5-tcp-retransmission/)
+  * [Computer Network Design](http://www.site.uottawa.ca/~shervin/courses/ceg4185/lectures/)
+  * [Computer Network Tutorials](https://www.geeksforgeeks.org/computer-network-tutorials/)
+  * [Linux Advanced Routing & Traffic Control HOWTO](http://lartc.org/)
+  * [Linux Network Performance Tuning Guide](https://access.redhat.com/sites/default/files/attachments/20150325_network_performance_tuning.pdf)
+  * [Making Linux TCP Fast](https://netdevconf.org/1.2/papers/bbr-netdev-1.2.new.new.pdf)
+  * [ARP Protocol](https://tools.ietf.org/html/rfc826)
+  * [TCP/IP那些事（上）](https://coolshell.cn/articles/11564.html)
+  * [TCP/IP那些事（下）](https://coolshell.cn/articles/11609.html)
+  * [Congestion Avoidance And Control](http://ee.lbl.gov/papers/congavoid.pdf)
+* Linux系统相关
+  * [Red Hat Enterprise Linux](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/?version=7)
+  * [Linux Insides](https://github.com/0xAX/linux-insides)
+  * [Linux Kernel](http://lwn.net/Kernel/Index/)
+  * [Learn Linux Kernel from Andriod Perspective](http://learnlinuxconcepts.blogspot.com/2014/10/this-blog-is-to-help-those-students-and.html)
+  * [Linux Kernel Doc](https://www.kernel.org/doc/)
+  * [Linux Kernel Blog](http://planet.kernel.org/)
+  * [IBM Linux Performance And Tuning Guide](https://lenovopress.com/redp4285.pdf)
+  * [TLK: The Linux Kernel](http://tldp.org/LDP/tlk/tlk.html)
+  * [Linux Performance](http://www.brendangregg.com/linuxperf.html)
+  * [DropBox Optimzing web services for high throughput and low latency](https://blogs.dropbox.com/tech/2017/09/optimizing-web-servers-for-high-throughput-and-low-latency/)
+* 内存相关
+  * [Every Programmer Should Know About Memory 1](https://lwn.net/Articles/250967/)
+  * [Every Programmer Should Know About Memory 2](https://lwn.net/Articles/252125/)
+  * [Every Programmer Should Know About Memory 3](http://lwn.net/Articles/253361/)
+  * [Every Programmer Should Know About Memory 4](http://lwn.net/Articles/254445/)
+  * [Every Programmer Should Know About Memory 5](http://lwn.net/Articles/255364/)
+  * [Every Programmer Should Know About Memory 6](http://lwn.net/Articles/256433/)
+  * [Every Programmer Should Know About Memory 7](http://lwn.net/Articles/257209/)
+  * [Every Programmer Should Know About Memory 8](https://lwn.net/Articles/258154/)
+  * [Every Programmer Should Know About Memory 9](https://lwn.net/Articles/258188/)
+  * [Memory Barriers](http://irl.cs.ucla.edu/~yingdi/web/paperreading/whymb.2010.06.07c.pdf)
+  * [A Tutorial Introduction to the ARM and POWER Relaxed Memrory Modules](http://www.cl.cam.ac.uk/~pes20/ppc-supplemental/test7.pdf)
+  * [X86](http://www.cl.cam.ac.uk/~pes20/weakmemory/cacm.pdf)
+  * [ptmalloc](http://www.malloc.de/en/)
+  * [tcmalloc](https://github.com/gperftools/gperftools)
+  * [jemalloc](http://jemalloc.net/)
+  * [jemalloc PDF](https://people.freebsd.org/~jasone/jemalloc/bsdcan2006/jemalloc.pdf)
+  * [ptmalloc，tcmalloc和jemalloc内存分配策略研究](https://owent.net/2013/867.html)
+  * [内存分配总结](http://www.cnhalo.net/2016/06/13/memory-optimize/)
+  * [Scalable Memeory Allocation Using jemalloc](https://www.facebook.com/notes/facebook-engineering/scalable-memory-allocation-using-jemalloc/480222803919)
+  * [Decreasing RAM Usage by 40% by Using jemalloc](https://zapier.com/engineering/celery-python-jemalloc/)
+* IO相关
+  * [Thousands of Threads and Blocking I/O](https://www.slideshare.net/e456/tyma-paulmultithreaded1)
+  * [NIO](http://gee.cs.oswego.edu/dl/cpjslides/nio.pdf)
+  * [AIO](https://www.ibm.com/developerworks/library/l-async/)
+  * [Lazy Asynchronous I/O For Event-Driven Servers](https://www.usenix.org/legacy/event/usenix04/tech/general/full_papers/elmeleegy/elmeleegy_html/html.html)
+  * [Windows I/O Completion Ports](https://docs.microsoft.com/en-us/windows/desktop/FileIO/i-o-completion-ports)
+  * [Inside I/O Completion Ports](http://sysinternals.d4rk4.ru/Information/IoCompletionPorts.html)
+  * [Libevent Book](http://www.wangafu.net/~nickm/libevent-book/)
+  * [深入浅出Libevent](https://aceld.gitbooks.io/libevent/content/)
+  * [Libuv](http://docs.libuv.org/en/v1.x/design.html)
+  * [Understanding Reactor Pattern](https://dzone.com/articles/understanding-reactor-pattern-thread-based-and-eve)
+  * [Reactor Pattern](http://www.cs.wustl.edu/~schmidt/PDF/reactor-siemens.pdf)
+  * [Reactor Pattern And non-blocking IO](https://www.celum.com/en/blog/technology/the-reactor-pattern-and-non-blocking-io)
+  * [The Secret To 10 Million Concurrent Connections](http://highscalability.com/blog/2013/5/13/the-secret-to-10-million-concurrent-connections-the-kernel-i.html)
+  * [Select is fundamentally broken](https://idea.popcount.org/2017-01-06-select-is-fundamentally-broken/)
+  * [Epoll is fundamentally broken 1/2](https://idea.popcount.org/2017-02-20-epoll-is-fundamentally-broken-12/)
+  * [Epoll is fundamentally broken 2/2](https://idea.popcount.org/2017-03-20-epoll-is-fundamentally-broken-22/)
+* Lock-free
+  * [The lock-free data structure](http://www.drdobbs.com/lock-free-data-structures/184401865)
+  * [lock-free data structure](https://erdani.com/publications/cuj-2004-10.pdf)
+  * [Is Parallel Programming Hard, And, If So, What Can You Do About It?](https://www.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html)
+  * [Non-blocking algorithm](https://en.wikipedia.org/wiki/Non-blocking_algorithm)
+  * [Read copy update](https://en.wikipedia.org/wiki/Read-copy-update)
+  * [Seqlock](https://en.wikipedia.org/wiki/Seqlock)
+  * [无锁队列的实现](https://coolshell.cn/articles/8239.html)
+  * [无阻塞和阻塞的并发队列算法](http://www.cs.rochester.edu/~scott/papers/1996_PODC_queues.pdf)
+  * [1024cores](http://www.1024cores.net/)
+  * [Paul E. McKenney](http://paulmck.livejournal.com/)
+  * [Concurrency Freaks](http://concurrencyfreaks.blogspot.com/)
+  * [Preshing on Programming](http://preshing.com/)
+
 * Java核心技术（卷1）
   * [豆瓣](https://book.douban.com/subject/26880667/)
 * Head First Java
@@ -556,6 +628,8 @@
   * [豆瓣](https://book.douban.com/subject/3852290/)
 * 计算机网络
   * [豆瓣](https://book.douban.com/subject/1391207/)
+* HTTP权威指南
+  * [豆瓣](https://book.douban.com/subject/10746113/)
 * 计算机程序的构造和解释
   * [豆瓣](https://book.douban.com/subject/1148282/)
 * 编译原理
